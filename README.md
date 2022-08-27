@@ -56,7 +56,7 @@ Cloud database stores the accident information referenced with a unique ID. The 
                      NLP                            MongoDB                       Embedded System 
                     Python                            HTML                              CSS 
                   JavaScript                          Flask                           Markdown <b>
-</pre>.
+</pre>
 
 ### VIDEO LINK :-
 
