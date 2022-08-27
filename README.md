@@ -61,7 +61,7 @@ Cloud database stores the accident information referenced with a unique ID. The 
 ### VIDEO LINK :-
 
 #### Accident sensing system - Click on the below picture to get redirected for the video briefing :point_down:
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/64918181/186975848-c4cd1171-dee5-40f0-a0f7-f07f0de206e7.jpg)](https://www.youtube.com/watch?v=yLZ8ctcctrI?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/64918181/186975848-c4cd1171-dee5-40f0-a0f7-f07f0de206e7.jpg)](https://youtu.be/mzm7qMSeGw8?v=yLZ8ctcctrI?v=YOUTUBE_VIDEO_ID_HERE)
 <br>
 <br>
 #### Website briefing - Click on the below picture to get redirected for the video briefing :point_down:
