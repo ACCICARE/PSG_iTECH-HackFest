@@ -15,7 +15,7 @@ information is sent to the hospitals along with the GPS location to enable hospi
 radius around the accident zone to see the information and respond to the accidents immediately. 
 This system will reduce the response time by at least 10 min thereby reducing the death rate by 
 one-third of the present death rate.
-<pre>For detailed project description, kindly <a href="https://docs.google.com/document/d/1bpxX9G5cddCNAQdMuopLMRYfakJPcGxBzKy6H3qe60M/edit">click here</a>.</pre>
+<pre>For detailed project description, kindly <a href="#">click here</a>.</pre>
 
 
 ### WORKING SCREENSHOTS :-
